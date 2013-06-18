@@ -1,0 +1,14 @@
+version 1.1 ( updated 9-5-2012 )
+- Updated shortcodes
+	* epanel/shortcodes folder
+	* functions.php
+	* page-login.php
+	* epanel/custom_functions.php
+	* epanel/options_lucid.php
+	* js/custom.js
+- Bumped version number
+	* style.css
+
+version 1.0
+
+- initial release
